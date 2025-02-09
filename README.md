@@ -3,12 +3,12 @@ This repository contains various projects and exercises focused on python projec
 
 ## 📌 Contents  
 
-### 1️⃣ Data Analysis Project  
+### 1. Data Analysis Project  
 A project focused on **data visualization** using:  
 - **Pandas** – for data manipulation  
 - **Matplotlib** & **Seaborn** – for visualizations  
 
-### 2️⃣ Streamlit App – *Student Score Tracker*  
+### 2. Streamlit App – *Student Score Tracker*  
 A simple web application built with **Streamlit** that tracks and visualizes student scores.  
 
 ### 3️⃣ Python Refresher  
